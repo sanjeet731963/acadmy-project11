@@ -1,0 +1,2 @@
+sanjeet,1,B-Tech,50,false
+Ram Singh,2,B-Tech,1,true

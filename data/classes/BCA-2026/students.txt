@@ -1,0 +1,3 @@
+Rahul Singh,1,BCA,20,false
+Rakesh Singh,2,BCA,20,false
+jai mahakal,3,BA,8,true
